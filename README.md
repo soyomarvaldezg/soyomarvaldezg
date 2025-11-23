@@ -9,7 +9,7 @@
 ### About Me :
 
 
-- 💻 Data, Infra, ML, Security, Ops
+- 💻 Data, Infra, ML/AI, Security, Ops
 
 - ♥︎♥︎ Terminal ♥︎♥︎
 
