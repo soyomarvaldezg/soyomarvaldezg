@@ -3,7 +3,7 @@
 
 ### About Me :
 
-- 📫 How to reach me: **contact@soyomarvaldezg.com**
+- 📫 How to reach me: **contacto@soyomarvaldezg.com**
 
 - **Main repo: https://codeberg.org/soyomarvaldezg**
 
