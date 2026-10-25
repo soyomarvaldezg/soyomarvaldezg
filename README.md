@@ -3,7 +3,7 @@
 
 ### About Me
 
-- 💻 Data Architecture • Data Engineering • AI
+- 💻 Data • AI
 - ♥︎ Terminal ♥︎
 - 📫 How to reach me: **contacto@soyomarvaldezg.com**
 
